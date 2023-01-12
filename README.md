@@ -4,4 +4,5 @@ Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: https://wikivky.github.io/hbd/
+Original: https://wikivky.github.io/hbd/
+Mine: https://kaylaatsila.github.io/hbd/
